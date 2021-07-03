@@ -17,4 +17,4 @@ Discord: https://discord.gg/dmgYmAEdee
 
 
 
-Credits to `pwn.sh` and 'Streamlink'.
+Credits to `pwn.sh` and `Streamlink`.
