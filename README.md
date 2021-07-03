@@ -14,3 +14,7 @@ m3u links of twitch streams for localhost
 
 ### Connect
 Discord: https://discord.gg/dmgYmAEdee
+
+
+
+Credits to `pwn.sh` and 'Streamlink'.
