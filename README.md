@@ -10,7 +10,7 @@ m3u links of twitch streams for localhost
 
 > Add streams into the file `streams.txt`
 
-> If the server IP is `192.168.1.5`, the playlist would be at `192.168.1.5:8081/playlist.m3u`. Add this to tivimate (or any player that supports m3u)
+> If the server IP is `192.168.1.5`, the playlist would be at `192.168.1.5:9001/playlist.m3u`. Add this to tivimate (or any player that supports m3u)
 
 ### Connect
 Discord: https://discord.gg/dmgYmAEdee
