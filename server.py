@@ -12,9 +12,9 @@ def playlistgenerator():
     playlist = '#EXTM3U\n'
     with open('streams.txt', 'r') as streams:
         for stream in streams:
+            stream = stream.strip()
             if not stream:
                 continue
-            stream = stream.strip()
             playlist += f'#EXTINF:-1, {stream}\n'
             playlist += f'http://{HOST}:{PORT}/twitch?streamer={stream}\n'
 
