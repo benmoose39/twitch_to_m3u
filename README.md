@@ -2,7 +2,7 @@
 m3u links of twitch streams for localhost
 
 ### How to use
-> Edit the `autorun` (`.sh` for linux, `.bat` for windows) file, and change 127.0.0.1 to the IP of the device that you want to be the local server.
+> Edit the `autorun` (`.sh` for linux, `.bat` for windows) file, and change `127.0.0.1` to the IP of the device that you want to be the local server (eg.: `192.168.1.5`).
 
 > Save the file
 
