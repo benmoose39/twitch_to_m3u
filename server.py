@@ -15,7 +15,7 @@ def playlistgenerator():
             stream = stream.strip()
             if not stream:
                 continue
-            playlist += f'#EXTINF:-1, {stream}\n'
+            playlist += f'#EXTINF:-1 group-title="twitch", {stream}\n'
             playlist += f'http://{HOST}:{PORT}/twitch?streamer={stream}\n'
 
     return playlist
