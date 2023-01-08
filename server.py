@@ -28,11 +28,11 @@ def getm3u():
     try:
         response = requests.get(f'{url}{streamer}').json()
         links = response['urls']
-        qualities = {int(key.replace('p','')) : key for key in links.keys() if key != 'audio_only'}
+        qualities = {key.replace('p','') if '_' not in key else str(int(key.split('p_')[0])-1) : key for key in links.keys() if key != 'audio_only'}
 
         m3u = ''
-        for quality in sorted(qualities.keys(), reverse=True):
-            m3u = m3u + links[qualities[quality]] + '\n'
+        for quality in sorted(list(map(int, qualities.keys())), reverse=True):
+            m3u = m3u + links[qualities[str(quality)]] + '\n'
                 
     except:
         m3u = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
@@ -41,4 +41,3 @@ def getm3u():
 
 if __name__ == '__main__':
     app.run(host=HOST, port=PORT)
-
