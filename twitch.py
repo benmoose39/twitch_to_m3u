@@ -41,6 +41,7 @@ count = 0
 for channel in twitch_channels:
   count += 1
   if count % 19 == 0:
+    print('sleeping for 50 seconds...')
     time.sleep(50)
   url = channel.get('url').strip()
   print(f'{count}: {url}')
