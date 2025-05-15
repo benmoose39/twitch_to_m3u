@@ -1,6 +1,7 @@
 import requests
 import json
 import random
+import time
 
 fallback_m3u = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u'
 USER_AGENTS = [
@@ -39,6 +40,8 @@ print(f'{total} twitch channels found')
 count = 0
 for channel in twitch_channels:
   count += 1
+  if count % 19 == 0:
+    time.sleep(50)
   url = channel.get('url').strip()
   print(f'{count}: {url}')
   m3u8 = getm3u(url)
