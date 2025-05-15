@@ -37,7 +37,7 @@ def getm3u(streamer):
 twitch_channels = s.get('https://api.m3use.projectmoose.xyz/channels-twitch').json()
 total = len(twitch_channels)
 print(f'{total} twitch channels found')
-count, sleep_count = 0
+count, sleep_count = 0, 0
 for channel in twitch_channels:
   count += 1
   url = channel.get('url').strip()
