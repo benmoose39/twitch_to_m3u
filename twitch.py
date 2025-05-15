@@ -15,11 +15,11 @@ USER_AGENTS = [
 ]
 
 s = requests.session()
-s.headers['User-Agent'] = random.choice(USER_AGENTS)
 
 def getm3u(streamer):
   url = f'https://pwn.sh/tools/streamapi.py?url='
   try:
+    s.headers['User-Agent'] = random.choice(USER_AGENTS)
     response = s.get(f'{url}{streamer}').json()
     print(f'{streamer=}\n{response}\n\n')
     links = response['urls']
