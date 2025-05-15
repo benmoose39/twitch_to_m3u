@@ -8,6 +8,7 @@ def getm3u(streamer):
   url = f'https://pwn.sh/tools/streamapi.py?url='
   try:
     response = s.get(f'{url}{streamer}').json()
+    print(f'{streamer=}\n{response}\n\n')
     links = response['urls']
     qualities = {key.replace('p','') if '_' not in key else str(int(key.split('p_')[0])-1) : key for key in links.keys() if key != 'audio_only'}
 
