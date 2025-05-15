@@ -41,7 +41,7 @@ count = 0
 for channel in twitch_channels:
   count += 1
   url = channel.get('url').strip()
-  if '"islivebroadcast":true' not in s.get(url).text:
+  if '"isLiveBroadcast":true' not in s.get(url).text:
     print(f'{count}: {url}: offline')
     channel['m3u8'] = fallback_m3u
     continue
