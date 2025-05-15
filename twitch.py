@@ -1,5 +1,6 @@
 import requests
 import json
+import random
 
 fallback_m3u = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u'
 USER_AGENTS = [
