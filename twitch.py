@@ -41,13 +41,13 @@ count = 0
 for channel in twitch_channels:
   count += 1
   url = channel.get('url').strip()
+  if count % 19 == 0:
+    print('sleeping for 60 seconds...')
+    time.sleep(60)
   if '"isLiveBroadcast":true' not in s.get(url).text:
     print(f'{count}: {url}: offline')
     channel['m3u8'] = fallback_m3u
     continue
-  if count % 19 == 0:
-    print('sleeping for 70 seconds...')
-    time.sleep(70)
   print(f'{count}: {url}')
   m3u8 = getm3u(url)
   channel['m3u8'] = m3u8
