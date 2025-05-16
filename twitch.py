@@ -23,6 +23,7 @@ def getm3u(streamer):
   try:
     s.headers['User-Agent'] = random.choice(USER_AGENTS)
     response = s.get(f'{url}{streamer}').json()
+    time.sleep(5)
     print(f'{response}')
     links = response['urls']
     qualities = {key.replace('p','') if '_' not in key else str(int(key.split('p_')[0])-1) : key for key in links.keys() if key != 'audio_only'}
