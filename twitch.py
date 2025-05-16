@@ -41,7 +41,8 @@ count, sleep_count = 0, 0
 for channel in twitch_channels:
   count += 1
   url = channel.get('url').strip()
-  if '"isLiveBroadcast":true' not in s.get(url).text:
+  streamer_id = url.strip('/').split('/')[-1]
+  if '"isLiveBroadcast":true' not in s.get(url).text and not s.get(f'https://decapi.me/twitch/viewercount/{streamer_id}').text.isdigit():
     print(f'{count}: {url}: offline')
     channel['m3u8'] = fallback_m3u
     continue
