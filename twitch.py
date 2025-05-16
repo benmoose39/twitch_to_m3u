@@ -32,6 +32,7 @@ def getm3u(streamer):
 
   except:
     m3u = fallback_m3u
+    print(m3u)
   return m3u
 
 twitch_channels = s.get('https://api.m3use.projectmoose.xyz/channels-twitch').json()
@@ -40,17 +41,17 @@ print(f'{total} twitch channels found')
 count, sleep_count = 0, 0
 for channel in twitch_channels:
   count += 1
-  url = channel.get('url').strip()
-  streamer_id = url.strip('/').split('/')[-1]
+  url = channel.get('url').strip().strip('/')
+  streamer_id = url.split('/')[-1]
   if '"isLiveBroadcast":true' not in s.get(url).text and not s.get(f'https://decapi.me/twitch/viewercount/{streamer_id}').text.isdigit():
-    print(f'{count}: {url}: offline')
+    print(f'{count} : {url} : offline')
     channel['m3u8'] = fallback_m3u
     continue
   sleep_count += 1
   if sleep_count % 16 == 0:
     print('sleeping for 60 seconds...')
     time.sleep(60)
-  print(f'{count}: {url}: looks online')
+  print(f'{count} : {url} : looks online')
   m3u8 = getm3u(url)
   channel['m3u8'] = m3u8
 
