@@ -20,6 +20,8 @@ s = requests.session()
 
 def getm3u(streamer):
   url = f'https://pwn.sh/tools/streamapi.py?url='
+  print('sleeping for 60 seconds...')
+  time.sleep(10)
   try:
     s.headers['User-Agent'] = random.choice(USER_AGENTS)
     response = s.get(f'{url}{streamer}').json()
@@ -33,6 +35,7 @@ def getm3u(streamer):
   except:
     m3u = fallback_m3u
     print(m3u)
+    print('sleeping for 60 seconds...')
     time.sleep(60)
   return m3u
 
@@ -49,9 +52,9 @@ for channel in twitch_channels:
     channel['m3u8'] = fallback_m3u
     continue
   sleep_count += 1
-  if sleep_count % 16 == 0:
-    print('sleeping for 60 seconds...')
-    time.sleep(60)
+  #if sleep_count % 16 == 0:
+  #  print('sleeping for 60 seconds...')
+  #  time.sleep(60)
   print(f'{count} : {url} : looks online')
   m3u8 = getm3u(url)
   if m3u8 in [fallback_m3u]:
