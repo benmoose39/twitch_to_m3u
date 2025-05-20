@@ -55,6 +55,7 @@ for channel in twitch_channels:
   print(f'{count} : {url} : looks online')
   m3u8 = getm3u(url)
   if m3u8 in [fallback_m3u]:
+    print(f'{count} : {url} : RETRYING...')
     m3u8 = getm3u(url)
   channel['m3u8'] = m3u8
 
