@@ -23,7 +23,6 @@ def getm3u(streamer):
   try:
     s.headers['User-Agent'] = random.choice(USER_AGENTS)
     response = s.get(f'{url}{streamer}').json()
-    time.sleep(5)
     print(f'{response}')
     links = response['urls']
     qualities = {key.replace('p','') if '_' not in key else str(int(key.split('p_')[0])-1) : key for key in links.keys() if key != 'audio_only'}
@@ -34,6 +33,7 @@ def getm3u(streamer):
   except:
     m3u = fallback_m3u
     print(m3u)
+    time.sleep(60)
   return m3u
 
 twitch_channels = s.get('https://api.m3use.projectmoose.xyz/channels-twitch').json()
@@ -54,6 +54,8 @@ for channel in twitch_channels:
     time.sleep(60)
   print(f'{count} : {url} : looks online')
   m3u8 = getm3u(url)
+  if m3u8 in [fallback_m3u]:
+    m3u8 = getm3u(url)
   channel['m3u8'] = m3u8
 
 with open ('twitch.json', 'w') as f:
