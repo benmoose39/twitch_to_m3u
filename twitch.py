@@ -50,6 +50,8 @@ for channel in twitch_channels:
   if '"isLiveBroadcast":true' not in s.get(url).text and not s.get(f'https://decapi.me/twitch/viewercount/{streamer_id}').text.isdigit():
     print(f'{count} : {url} : offline')
     channel['m3u8'] = fallback_m3u
+    print('sleeping for 5 seconds...')
+    time.sleep(5)
     continue
   sleep_count += 1
   #if sleep_count % 16 == 0:
