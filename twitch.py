@@ -47,6 +47,7 @@ def getm3u(streamer):
         return fallback_m3u
 
 # Step 1: Load Twitch channels from your server
+print('Getting list of channels...')
 twitch_channels = s.get('https://api.m3use.projectmoose.xyz/channels-twitch').json()
 total = len(twitch_channels)
 print(f'{total} twitch channels found')
