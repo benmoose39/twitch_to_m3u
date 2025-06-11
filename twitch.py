@@ -18,51 +18,75 @@ USER_AGENTS = [
 
 s = requests.session()
 
+def is_valid_m3u8(url):
+    try:
+        resp = s.head(url, timeout=5)
+        return resp.status_code == 200 and url != fallback_m3u
+    except:
+        return False
+
 def getm3u(streamer):
-  url = f'https://pwn.sh/tools/streamapi.py?url='
-  try:
-    s.headers['User-Agent'] = random.choice(USER_AGENTS)
-    response = s.get(f'{url}{streamer}').json()
-    print(f'{response}')
-    print('sleeping for 5 seconds...')
-    time.sleep(5)
-    links = response['urls']
-    qualities = {key.replace('p','') if '_' not in key else str(int(key.split('p_')[0])-1) : key for key in links.keys() if key != 'audio_only'}
+    base_url = 'https://pwn.sh/tools/streamapi.py?url='
+    try:
+        s.headers['User-Agent'] = random.choice(USER_AGENTS)
+        response = s.get(f'{base_url}{streamer}', timeout=10).json()
+        print(f'{response}')
+        print('sleeping for 5 seconds...')
+        time.sleep(5)
+        links = response['urls']
+        qualities = {
+            key.replace('p', '') if '_' not in key else str(int(key.split('p_')[0]) - 1): key
+            for key in links.keys() if key != 'audio_only'
+        }
+        quality = sorted(map(int, qualities.keys()), reverse=True)[0]
+        return links[qualities[str(quality)]]
+    except:
+        print(fallback_m3u)
+        print('sleeping for 60 seconds...')
+        time.sleep(60)
+        return fallback_m3u
 
-    quality = sorted(list(map(int, qualities.keys())), reverse=True)[0]
-    m3u = links[qualities[str(quality)]]
-
-  except:
-    m3u = fallback_m3u
-    print(m3u)
-    print('sleeping for 60 seconds...')
-    time.sleep(60)
-  return m3u
-
+# Step 1: Load Twitch channels from your server
 twitch_channels = s.get('https://api.m3use.projectmoose.xyz/channels-twitch').json()
 total = len(twitch_channels)
 print(f'{total} twitch channels found')
-count, sleep_count = 0, 0
-for channel in twitch_channels:
-  count += 1
-  url = channel.get('url').strip().strip('/')
-  streamer_id = url.split('/')[-1]
-  if '"isLiveBroadcast":true' not in s.get(url).text and not s.get(f'https://decapi.me/twitch/viewercount/{streamer_id}').text.isdigit():
-    print(f'{count} : {url} : offline')
-    channel['m3u8'] = fallback_m3u
+
+# Step 2: Iterate
+for count, channel in enumerate(twitch_channels, 1):
+    url = channel.get('url', '').strip().strip('/')
+    m3u8_url = channel.get('m3u8-url', '').strip()
+    streamer_id = url.split('/')[-1]
+
     print('sleeping for 5 seconds...')
     time.sleep(5)
-    continue
-  sleep_count += 1
-  #if sleep_count % 16 == 0:
-  #  print('sleeping for 60 seconds...')
-  #  time.sleep(60)
-  print(f'{count} : {url} : looks online')
-  m3u8 = getm3u(url)
-  if m3u8 in [fallback_m3u]:
-    print(f'{count} : {url} : RETRYING...')
-    m3u8 = getm3u(url)
-  channel['m3u8'] = m3u8
 
-with open ('twitch.json', 'w') as f:
-  json.dump(twitch_channels, f, indent=4)
+    # Offline check
+    try:
+        html = s.get(url, timeout=5).text
+        viewers = s.get(f'https://decapi.me/twitch/viewercount/{streamer_id}', timeout=5).text
+    except:
+        html, viewers = '', '0'
+
+    if '"isLiveBroadcast":true' not in html and not viewers.isdigit():
+        print(f'{count} : {url} : offline')
+        channel['m3u8-url'] = fallback_m3u
+        continue
+
+    print(f'{count} : {url} : looks online')
+
+    if is_valid_m3u8(m3u8_url):
+        print(f'{count} : {url} : existing m3u8 is valid')
+        continue
+
+    print(f'{count} : {url} : fetching new m3u8')
+    m3u8 = getm3u(url)
+
+    if m3u8 == fallback_m3u:
+        print(f'{count} : {url} : RETRYING...')
+        m3u8 = getm3u(url)
+
+    channel['m3u8-url'] = m3u8
+
+# Step 3: Save
+with open('twitch.json', 'w') as f:
+    json.dump(twitch_channels, f, indent=4)
