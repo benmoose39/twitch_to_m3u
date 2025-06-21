@@ -58,8 +58,8 @@ for count, channel in enumerate(twitch_channels, 1):
     m3u8_url = channel.get('m3u8-url', '').strip()
     streamer_id = url.split('/')[-1]
 
-    print('sleeping for 5 seconds...')
-    time.sleep(5)
+    #print('sleeping for 5 seconds...')
+    #time.sleep(5)
 
     # Offline check
     try:
