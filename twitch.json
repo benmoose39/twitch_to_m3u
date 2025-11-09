@@ -211,7 +211,7 @@
     },
     {
         "_id": "681ad674626edc70d7214ca5",
-        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/Ct8EDV1gQgcxgpMxZY7IbGCZwj0bDVq4p8X_eZSsRA9SWCaO18mgyf7OsDwVuHFoTISHBifyVf7BLiZxZhof6pMa1WuxFEiY1djl9NtHIcV8zE_ChzlDI7bp4rX5IAYntsMLcX9KruG3HU0-vdZ8jIVyvA0Ceqxr7GMLAjiPZ9featAmhUBYepUzqdN3xvb3Ku2fQeGoGoCsAKZUFhFS6PynRpkYohO7AUa1msj-U0StudUyf0u_XlFOcXpGv9mEQKhaxKmuGTwfOHc0UplVwPK6ADB6wDjp2MWdMKUHI282xCb-lHa6cLL02jCPqKlOxu542XNafLewnJsN6Xr4pycBXuZAB3aCS8Jf3RbZAH7nhAgKwCmur_0KaksRVFJ3ksUKhCMe8ys74lTUbWw5ndKYDIbYPZ9HmQXRl3DiDLZLQzy1Jmx7YOHpsloMIwdFjJCmcgXbfdBfTrOmEJgAtOm9hk9JPOE2wAPrJu0YosHEws2C9AoUd3o2OkaEjcxchJVn47WSvSWxN8hPFFu3D_BKB5Q0uvJti-30fshMfZsLArs2hGQQXPKaOmicnU203qvjeZ-E8n3HzvuFuQSR49G8RBmnwF3oPpwQFtwHB4QqkopatQG5xdP4j2BWP9AsW1g3NnAcXqaS-7YLxg_0Z5n546cj4xOtpegS0z7oRG1Hwnj9E9GTxFDrAFPUZNXqmZZgY4erWRGc70bWIODZCrEau1HTXmtVyPMaAyjyfeQpnv_DCAL-MmnLfM4vs7YnmyYFR4MbhyAF7Xb_46-RVW8B6iX-K0m8gAYFBwaphADn5hoMnRrRDREuthNL478JIAEqCXVzLWVhc3QtMjDUDQ.m3u8",
+        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
         "url": "https://www.twitch.tv/maximilian_dood"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "_id": "681d734302856b7ce43adf02",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/Cs4EL2n06pthr9QOV4nCwaOxtCseODy78LZLf-0W07mJKm1HN21eUCwOotqdEXzGu_HW-WR4Tm1Jm9fIcUZ4diq_DZ8adgqpZyTNdsZ6pyilDKqHXAa1xIvGpsYHewhgZBhzgGGzMmWR_oQhs3CM-LH5m0OiaGPh_-rLOXFjAuhi8Ak4sB-v5p9qNuS3ufKKMKYydQ3m9Kh0k065t9VL3oFbCpmF9XXvIPggu-nOwDG-RrDGUDjaVpHm8o9r-aEwDsChsC-nYF4lpwonMLGQboX3kUAXB8f0UUGuBAhezXQjARJHCfQSsYzJfBsa1kq4dBADPMlb_GDlefo3YVb-nRR93JtgoPWMEQxFpU8uMfYUUWn7vzXg2I7hoVErJzGZFU_iYUaytziNvH62Iqz35fi6Itn4mG21UBp8nvm5Zl0voLxW-ovqIJNbw6lLTAmYa-RQdY0qLuzm_Cw3nq06TVUDCBUgcdkk-CjgqXZIgXkLXGOWnbe09b6kFV6qx7l0BkNDNvRtUM-hy2R8s8dw5vHvQZVyNbl9p9bz1WCawlBB4RZH9JPJ1rPgNJfS8K9VgfPhjYmLODbBCcVL7Wxvf4NKgP8XEj_C56eO6TE83X3nXb5N7U7JLJ0iKIj20i_FgOmI6f6xJjY7BprexTl_4UfPjG5ZJs--I8Ey5kWnUQmxYvtx07Ig0LtKr2O_E8cYxszDR8vy1FmJhw3PDsK6nINootLTwbpu-Qyy8DWfF2uXkCQJJDpw0RnxVkT-XM5cbWFVdxuw4wgcA-AjeTIkHeQaDB5P_7I2mqjUqHPlZCABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/erboldigital"
     },
     {
@@ -341,7 +341,7 @@
     },
     {
         "_id": "6825ac9e6c0f255c941407ec",
-        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CrcEu1-DEKVNeIsQVAVJwFAgtKZ05BsfolZjLQzt4eRLynbAVkCWzb0l-NymRnbN7BtiWElb2sY2LLrZFIhOHUlJ_GUK6AD43xD2riDhfsbks_lN0vTML9RqiXwwjuw30y11TczYB5IuZPbCvHLfjsI-nHCNU5UU24Z2Aepeo9x04_c3hQ6QUSQYU8gKIlWpXmuN8emXkd_EDqIDDpXryuOi-mN5B-TxgxqTBD3CMKCYTztndFWakvMUYZW7iJEWItG6Z9KQBE5OiMAygcde28NjPiGgCmWpH3KI9YfBIzFnBAoZPpPiBpHveLFIr-AV7gFE6_ZwY30AOBcvSo8LxJRpnzmPVvfVVpxC2X4s4pQTEej33NTWrSz17hGqGfHop-BPwugIp74CMQj5MwGWHGSyAFAuL0YmbJ25mQglfy6Zxw5ta5GG7JQ4yIQxZaal-ApTCD1TzLQPHbAu1hPO2RlQOrzXO3UrLruZLHHT81sTCFjMUKsgQPipq8jKVZJFYJH8rokFgNVnDbw0iEJucpG81jLkgkg14kACyA1eXjRSj89J5aKvJMH_ykWWDieMsUVgJIhAmL6OLFdbGqkEEZIJIYMM7e--K9XwGaI4eIhJ1qcWFNQe-wsnNBczuImXMfEZeJuqlex6-Iwmezbm-bi39jAI1rRtKk8j2kKri7_qlKj_D1Jkjy2QPSUWS3xHpjaqEZTjjaD9RFf3ICojhf_ZvNMsQ7SfD4miNEAqg4wW-Rhc1gYKnsEMGgwWFRGIdfEwEWNObGogASoJdXMtZWFzdC0yMNQN.m3u8",
+        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
         "url": "https://www.twitch.tv/mutex"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "_id": "6826a767fe7776de147d99f8",
-        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CsIEAJS6P2R30QdWHiZahXFwmKzsmZfcax3lYe2whC1wL8oiImqh71E7IPPrOp-HKPKKweVTT5vKqkaNZsJqi0YwHVVoWXtGqnSC3YhodQca33WTGzB0ff6o5uSoKyaBrYPNSGoUHXDa2Sdf4QOlCXwoCGoOOSQHYe7eg-FCmp4rOGL06BJ8JqzeKn_grALVBCAxyOaFfA_HfgKtQck8LzwQ2P-JgDGTAizISjvJUl859lvkhA9HRqN_xBvWXyQjy5-Zb9NMuxWQxAewkvClNctY2WNEpr21z9eIJRV9kx8pPhL7aLvMeDxA7kfpfFz_3X7LMw7fvHFWla4sBpwct1WA6deBOPmrqKMDvANxFCxsO5j5TArCGg9UpzI3F6ZvWgKmciHyJztQ3YM5_RgmRcAi2qUSHB0dvQYsikQNUF2TRviU03b5ivz14RnGrVaFOFLlDF_QiEA3Sv8gg_rQIr4-DVkZx9BtghxJVPTpCjMB0lWxDICznAZqDmk0MVXUpJrAdcQxM_FSrBdGCMjy8UnUmgA6sCuLcoOVJpjB7d_-QM-ahL_ul2dE6ma2tm6wGoHtHuU25U2wijK5sdz726tDdid6cprYhiPeoYp-H7KRKYposZxkARVAPBy4dWgO-VAeOU5DWMyV5BjI_dK12Cc5cMZyFJVYVA7NZ43wDAHfYOm5fR-YAqpmqZSLFVIHRRyBa1E6SkMEkGKRpA-UKfsqaXLRlCfwviZdpmHm4C5MkHcKfTlGLPOgfbOz_cXJwJ_g36UaDDnnjyC9BrbUEWoyiyABKgl1cy1lYXN0LTIw1A0.m3u8",
+        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
         "url": "https://www.twitch.tv/tveo_catamarca02/"
     },
     {
@@ -466,7 +466,7 @@
     },
     {
         "_id": "6842103487beaece857bc4f4",
-        "m3u8-url": "https://euc12.playlist.ttvnw.net/v1/playlist/CoQFQ6rrcCWfEJb7_WR_IKsCB17yuE8A7KFZh8vEjzGQJ9zpow1NxnzU3XOWJVYk6eLln3ZbDaUx2zppwBtq97XQ25AmMhugJdBT7_Fv2r-VfAmEgtQRYLkUhGRZ5gAOHtLBrUVmR4-TdIv79WApkzAu6Dbty0rbDLeOXVeDuEOrHkAGMN34x3OhGfEKSL2BtSXS2_8aV2lXfTiOQjTP2y2fbBOG2No4pPPLCQu4E5cZ-bQKyWwk_vmfYc_2iVC7vaSJjmBlnxrka46JHak9YLZf4bzLqrO8HjEUMzk0gqKBm9HQP4iTRLu10_PPIbpTxTCUY59CSWjr9m25Z1tYKHfO9u_i_xx9gWeGPp_rMpuP-qy9zKi2rJ8CYsK2V1aA6GJ79oThOykg2B1ed-iaihhqJnXIWJ_pGIWbiYx-ULVR68oXJRQfrOEKDFtF0MZIEvxyrkqN9Fcu6Abd67eD3BxeVf5fc6xww-6mN4S0C95chPaLXtFfQG6ORu8e9dp4KosYtY-0lgbHZTwVh4Nij9bK03zWhZA3D7mdGLOC2iixX6S429QXj5KCWLUNKVwYb3W67cdsFgjNN_YjDHk7r_C4D2IeQUeQyb_08I9weN6w6Kp6L6g6OZqFdPnzuKkNamuhEvZoZ8pLVcAGJaTVrGLCBi9Ov4PtfT3rTUZQkxAznnHi9UWptMcKrf2LnKhEFuBcjTZvd0cQ53nWqCb1EBi7ifz52onnLNDMh2whmKBfQ3aXDGarDk1ueUaa_AVQtgpwud890OelRbJVg_CV2Eezrlido2za4PxMImslukbB3sZ4t514Cpi-NtQQ8W8SrtTNq0b0qGTl31NQSkfPhZMvVNkK5pAaDIuFPqguNE5rlMWAQiABKglldS13ZXN0LTIw1g0.m3u8",
+        "m3u8-url": "https://euc12.playlist.ttvnw.net/v1/playlist/CoMFdcka4kvZwr4YW1rzTqqQNu-4EpnSYL_2zYbvJxABTuwz8GqVl1_5klQDXtae-v2OKDyxrbWZ2QX4pLfIbFYa_3KkBXvTACRLeC8UiRGEg4PCKYgqforTSlvRf7vc3_H1hZM5bmMCatUq2NDtN7FcFz7Fs8M9O-pJI-OGYWePuNAAiVc0FB_Rd2mb8-bd5NpGKaXWYR6B9ocO0D8RZuyQLmTYM-gKzLgeN0zxUrjCEkZYNDrJknu_WtTZOG25mdqD_UllHo5TWfQqv0kaSNrn5im47onPzlb3xV5kNTzF7oEJWp3k4fGbe9AEOMiboZGPZV4D6jrb8Swo35fQHB0i7KrUIWz7ftTLuOAxViPd3FixO9RJrCNyVH99Kwd8rSR3sVOdiGXQmNS0ISIzYPE3jjlGLFZhMnPzP755n4E0SNjP5m4pe73FebraZ7AT3uThgKpjxHj9UE37HswStfVUFSek2fu1lk3YaIIqJ9MSOf7iwgQJ3sEh2XjHFsYVYbgGGScXvKDXe9qyZlhptON4BN8MABir06XDzoeBxKOcu-jW_DFNPCjiO2MGlev1-5u-KWnY6CbVl797ws9tqdxnGWJmYp8n-AyR-g2k3PRPk5hVLLpGE1vxfN14Gk5IbUHSviwSNE4od_ZiQ6t_L9yA1W2w-3bU3Dk_jWqVMv2ZxJ9Ha7SLAWC1NsvO_cgx-71dbdJx46eoviwq7Wa4xKb6Vn4rYodsD9khg_jNQhxvImTpV7YI-Nz_i3wKRY-sWDfKAkIEQ6ela1xlnDpj6HgW5v7DcL8blkAnnu-vb_0EqywnWbwU5apsz-PQ36JsuIAVEIp71ERDvvZucPfZw1vYGMLaWhoMWoBPh9ztQl79X-94IAEqCWV1LXdlc3QtMjDWDQ.m3u8",
         "url": "https://www.twitch.tv/telediariotelevision"
     },
     {
@@ -491,7 +491,7 @@
     },
     {
         "_id": "6842566087beaece857bc4f5",
-        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CrcEBl7AUX1rIXyDHV46zw61kkuzfEv5s01cmPYvxYne28aT2cXaXfnuj3UtcF1UpAubOMKWJ9-9vqlmxWWHFv_q7K6iHDkfpySKXSWZwk-qsDp1SqDMJlDpAyC_eN8NQpCIyjCca-IeWGnX2hUgng9kGCPLFZI2IaNXKvWNHuFzURQN6iBHaZ2s5X1jDRm1yteuDa5mKUndNwTBQAz3M4fuRStRzEye0UX15tumsab5cplVnVKbL2QQKO4fZH_T61Kt0g4wfnpPBwOk23JJuJC44A8xCvZxL6nWanXqc46vdKOqQumEUTPxqJ_wiy06MUXEjxk5GSlfuH_-yOygqKgTty2qbJnhjjxC13lVUgOPPN6ZAdUs243K0sRX6odO_yP0bEvka8-LvWKfHaFNcA0sn3FgKmn2aj-mQstyjO-F9vCdALlMcDEwPq2IRNoXd1DkD7cdUv0aLKanUxwQgYr9ACNISUFndpcwXZYuOlcnsYc5vu-944VJIVQnrmMcLaZX8khJJLcUk_ntECmJhJSFGR0zi3kqhJubaFIAIVipW7ojARWRvd-jDgCThX0yYQImOYFkpN3i9kTYS3MITYm-QCZsZsXD8h3st_j6Z95TWhphEP_2x10UfFlaJIp3-4uKIAC1vSWFrxzQEryCFE4vm76j10UkZNeJU94pWuQ_Y7tSNl4qrihutos-hfcubPo2RdQ2AcX91cFHlg5zxSlRPgSfUJt7pfpVsus3vzH_huOqyM1GGkKLGgx1QFfN4svw7mATo_sgASoJdXMtZWFzdC0yMNQN.m3u8",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CrYEdqgjtdv4bdFXYZLbgOR3v_rBUR7SD6wT4JpUxOMGSnZzFuMuknqgZP2QdfEkqYne1CQGsFRt9sagSKW0GbwFnEqdnAsLqJ-uhKpx8H1v9r7qQoLCvTmghTwQK1wJCs19Gljq9dIGVBmgSzgFUYB9zNR03mAb23p8oxyq-heXlrBxRv6N-xFELkkwts6STFKDKObpXtvYiPfL_Paru_oZfKJjo_Psj0-TFV-pG9025mmlyuQFZw_5lOHbcbfujp59DmLF7lapuyxBs4xzAEljzTMmNeP4iOEujOqb1nTNUP4DaNtTzLjrgX22_QgtwHtgStWtK_pgbRlWpCLVPyP39cl2UDUnOFZ25PX9o_QYqturayriXCbJ0dTeqg_u076PYzO3cvfl6QBy-o3HL9c5vs-WXOPYC3P5uwG9TYiIinjewrVLO0UuKjKVzhgxhIED5pzA9-3FBo7IeqYADxywjTmr6ZKI1rGh-atBWBLmy1EDBeM3yb8KmOdmo_4mGA0bp0EDOGWwLn91I8iRtEzpG0jZ5klL0aAu5S_tE5hecKVemwJyBi6_DTa5NED7M4ApRkG3Cv-S6WWkXOPh5ROp7tSot2okZYin2U99YvNZ_kBupSCFJpTWLFcV_bY1QYYA59OAB0jzQS5Xq063mRelvISvcala2NAF2qi7Bt4DBQ4nR4O07STIta_fXrOYOUvZaFqWnJmM0uN3C3E2fJkNBzGcqcH5yEebBbsPYwacWuKSDarfpF4aDE9rMNtQHP2FQNqLiCABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/playfmonline"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
         "_id": "68473f4a765d4e9825302f8a",
-        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsUEwq-0KFVo30SuiBFGC_UHg13uiHOy8Jg_DUVtsyumVc5aiaK99QbC9h2ShMItJolKavJ1vQQ-J-xaRnl95xOo9eL-8N6xU3igAvb1-BQwtf9OWJ-T0MWXsIF1mmhhKt7RtwA0VqsnSQ-RqfiK9XTjiAVCe9D2TqgFUGZciraZsvbPQXX8eJjFAduXtdLvS3rYbm9HNn9zgpzMqWDShfSSg9YXAmtqNwJdWVEcvNAjwHtBB2pl7WF23Qj7oYb6o0w23afW9cAFTtwq35EzqLW4Qye534kLcFd3xDteBcB2t8H64R9EaNmKdKVmG5ssGos8myJ1JSs-aYX6buVvMV9t05FWlIojOY8jl-EwqwL2tm2ZrpuUqEFAZvnHRY4e6CNrYK8HAJ9dMyK4mm0RbLrzrzMB5JQH2sswPdu6C_U13KGnwosNUh1LC4BRQPA9MQrwuveWYxtR937MKe4MfMRtrXr1DTyBP51L_BV5K8mb3duvqVBsYC8YQqIJPa8JH3QjASSHdteK1sl7aRcIw0V6UM0FMARa-P4b2nSH5EYnO6kHMw4oNtuhc8FfRji1OmuTG2pYLpBCANUvmw-taLhvLpJwPXEEv5a5Yrfbx7CN1PfXAqKNvOKN0sy6xtPP9U_Oa6ChN-Zard3AtU1hCuLSALheHSl3M3p33Dni-6-1kOry39RJhD2s5FdTepQtxnLtqn8JlFCBi1M6ebsE63GMx8LbuoIWPBXhxscJSznQV3MMU6-YYR1gjVxNh7TfckA0mer0UmUaDBCOG3lRQNibmFff9yABKgl1cy1lYXN0LTIw1A0.m3u8",
+        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
         "url": "https://www.twitch.tv/tveo_catamarca02"
     },
     {
@@ -721,12 +721,12 @@
     },
     {
         "_id": "684f6359932f012523fa84c1",
-        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CskE08XtzQUd5AEGPBDxMtMoQCr0dEkh7gWLfXhhqAxACWGAK9ny6YqB11yPY9eQXH9bYLBYEOIGdpADjJi-WAvha25gbwREHJle8NUTbmNCE_rkJ3f7mewJBJgAUGiQ6UAYHj_1dX_uqU23lC2FDcFWkKzff8PEuxFchMhdT3x-tEcnd5rU0xjvVBeIzmdfXFVo3LHknf0xN35wRptLswyghlftdwdof2bBacEYNm_U6raVhPud-0hd7VScaiIoklfy1LrvAdAPVrTPA5Jv5KxkFZOSLkFIWiDsBn-d4GjtyKnhnH9BIs8nX46iZ00SbnUch9p0fnBIdOtqHIItftByXxf5RDq6PFODPzyuAgLEarfmbHiyslQ9W0pzR_HLsiCpOhEC0Sy0cPy81-CwbpaIm0aZsNVM47jpZqGGYberKRlZaxqC7-VjWDwVfQEDqDXtjcvHR8Ms2xd6lsyjOrXMN6q5enTxbAFBVbSotL95ZiqNFlx-TjQJR7SPjr7lZHaD-pey6q7nSJO6av0u3KVIlUKxf9NFE5N5sp1SZ6vBR72Qgvz07JEwl0T9C3Tg6GWJBtTuj95Ml1EAKmqNsL1VFrC7bFR9Q3DcBXC5eIQtzRPrY4H6wwUqNP2ggEju6o7-PmmdL14v7a7ZIQPkl8my_Fkk7fdQjC9T8CkN6rrenYBxSMXe5nGRejWX3orWP94bu2xdwhIaazbtqjFqfRX9lRCidwI0kVF6dRq69eU_u2WWGVTjitNRmCgXH13gbiZ_e6Z1p_pix-AOGgydr9SEf7eG3Js6FxogASoJdXMtZWFzdC0yMNQN.m3u8",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsoE6f87HbEk0fGiNYFE0kWaTEVpjMGKQMHWQ_2C77Qy4lgWr-Dg0UW5H5el7UMoIyzIyNFvxooxBblDdmnuvqWJGdDWSV_EM9RHv3zmAVUkNUh8HYtKOpVfd-VPG6Qh4oAQ5dscr7M1Wc6xFKbJCMPMAUdeQ_zr5ixuAC0orbUnAJHiT42QMroL0_ocGxIhh7vAx32JrW1qSsjX7Owh-qjCntQhAvFVucrVFrTK9UDmM8xZdGFVsKUa_LTukKfYLW8gT5J0cjOA4y2XPWi-GukRXyOdvFVZmhLh3wxzPKPFvpKEHFWUwZ9xmgnRZKqvlmHqrJyBIYu4XDqfP-IyzkfeNyZ2OoGlLdGMLL7eAMfywhtO8dFfz5J3WtV1A0DxpawtD4AxZPCC-_NA9HKQGDsJmypRDAGCFdiiB9ZGw1JoClv3EPggzFMUpOTAvMOpI7GAIYWnGZ_eW-2_xZ7uPSXkX7XqnepA7-bYmTmNLnLoN2Yn0_ZuonADzDSikUqjZzFrI-79pc2JhaI7x6KKqljf49GYTEdFdzDQUTZ7VYRX4I4uPnpWxjqQEWZ9ocCdyRVIhMPUv6gHmvsc2lTNNwKlvXasxECRxEbtapYvSRG0b5Fcal1fKHw4qFPhE53Es7bqN58ViHn60LEkteOAc6hKivwuwAWeYweWsyYRyoeUHPTOws98b6jbQsmr9tRyl7LDn4kDGn9yezpwRlSpeOXj9uiA_WTQ7DrKbWyoENnBYPz56fywlWzZGITS8YORbYbh69mx4R7m5ml8rhoMrTEldHfUCF0Pip19IAEqCXVzLWVhc3QtMjDUDQ.m3u8",
         "url": "https://www.twitch.tv/robcdee"
     },
     {
         "_id": "684f6377cf5f43d6f49b5e2c",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://euc12.playlist.ttvnw.net/v1/playlist/CuoEFW4y5mzJyeSY047z6ugmGKbCnlbXnV0pzat3sb_fCxqDN-juBkUEh46TK9CoYgVJKDMH9_24SGyo3S49y2f6wP04mLNXcMagwivSYiUrBiaVp2bu9y8NZ8xmkQZ7zPANX6kpcVxYiciKurBgsff94OtQr0Uvq03udyCtzXVSRiJVz04asvRz1vjDttGGsibDKTPEe1as8_42Itlb5lntJoGowZ0iPHhNoXcEN8mx8fZMeRLIpeWruXDjsUbJjUX90mn5iEc4ty4Xp7BGWFAE8wSqO9npTHRvH5hEaWX3jGeFBqeh4_qeBAYbbnmCo9mGx1uXX_bEu5UuAjupjVORbJ4CDCbWEqmLd2b14UR9Q4sw2ufKo9TjnYLpT-5jv4AoR9HBfR277gFJ5n_O5_nWEuPuTRSHZCmHVq1zp-l-nm1YDNUvm_y94nWzqTtjnLvTL22T2_3bIYEtqLiPhi8Hxqr_K0WiYosJJ4i1c0Pg4zxEvTmbdHjDH3wluYabZupNVwWJVYmyQpshypC6fcMdwDRQXP5Z3A2h_3NsyHc3zQAiFfvh_crCVag757iM5zNvx6wCiJDFlu5LsTYaxeFOw0pZMJzbM002FJS-IORA3fnULgf250tK822onNKiwe9Aky4oF6rmKfqTV6pkVba5B-4th7Yy1bUzqJvpWlLUTS5_l1-ML20aPQWFwkY2-GN19obdlq24b1V6lkQvVhnA9v9YVLzkA9VGU4904zFGCAgLNOyPiKCkapm0Q6o41N3FhinPhk8tpDmduE3h6SKLa9Ujeq_STzdzaGGads6eifFZu8DJ1z6b7n1_GgxtQ4hOzQigR7uW9FYgASoJZXUtd2VzdC0yMNYN.m3u8",
         "url": "https://www.twitch.tv/kiaraakitty"
     },
     {
@@ -826,7 +826,7 @@
     },
     {
         "_id": "684f66b9932f012523fa84c4",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsUEdOSZnD_coFrgn9eNRtZuRtNsNS7-ehDRYbXYzh-BQevfQWQW_0O9r4kGHMlMaNDHweWHHR98sQNYgL4H0sXQSVjK7RIS5ZM4pp6ux8XV9wUfagr84dK4E7d3MkSBYvZyCXEWGrAtEvB2XCw-O3LD9YQ69rRA-27NAYiQaWsGMbRzIZ5HpbRGL6PBW7pohBYb8tUvw4X5h_ZaxWH2O31bWxEylPqKJQJv-ps3NjRYjY_Rr9aodSivmDuqHjM2P1oH13-uDV1MHiKcrFhZZDtaEZ5iJiSIn2gPqN7Sk84w56YAqPhRj7PuaxQNg3rNsAWvJq_UaXwqiCTc_yEAav1FtVf9ZNjpphmqh_ntCDCktKQtrc_X2ZN2jLzbh-mxaiXN-OFbV0_J581L-PGo8zKsQeY0LoZy9Me4mRTMxJqGcVNr1yBXvcrp4JObcstlbtAvgp3I2uIltTqUcbnnbUZom2AjngPaYQ5sftG5V_qgC3M-i1S63msdlWP_3oeIywdv7RuM2w8QqiGUNDd9jOatIM--U46eHmgcYp_8hDuNrYMUmNgMB7yjIAIxR4x6QY1sW1f-SPPI6PL7PXZKlV8nTvw2ssKEKFyvUbY64SNKUrjG0R9plquMQQqpdKMydi-OtFWodKiKLKElK1lPELdN8VZaDFL8oySFS7ybJdPAkSk3lTJv6oXxEYMHj1NivlNFyl1O0QHltZg2YDiUjWe6xP2-7M16_IkPD1UQt5_I92PdEsfZtcbieHrTQj8tejfxvd71rIgaDBlImYup-wE70fOuYSABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/mellooow_"
     },
     {
@@ -921,7 +921,7 @@
     },
     {
         "_id": "684f6b6b4a3244c6f2ec9bb7",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CqMEXlegRS7aPA2UwblS1lsrXQzu_L1Snjm7OJbH8-GWLLdTdL42rfWjVZetgZln0vH-EywxL3uqFBRukgwgWhBkOqIoW4PTpetj1lazUh00Qq8pw0s__FJ2nPh29ezU_fRALrqAnSaYAXHCezBhTbc2fwNT-GrddPzst3RSAoMPGfadE5GfP0quo0w-9Nyh9PO7zntjyM3xhoWWtpdKPR3EmpowjyfIZDdBYX0ao4lMArc7xLr0pnNywdMTCxWY9TyCmR0xls0u6_jQXQVkQofHP9lQ5X6yVH-14g5lCKudH6MgvyJTXerDj89dmi6VzwYuFH3HmLZJD2W6cjvZaoaP423-BPytmRdjtkZMlgfGOQxthgp74FjCfZvpZ93BelDKcntvlzhzVMmzpyHno35_TnNHRBJoFLcpsJMB7VGwgCsnG8w8dCQj7DaqRXR9gPN1mqzbU6LRKG8TlISMAntQQnGx5L-tTsFIdqxKP89cVqK3HOgS8zr9ifxsM84ljyHlu9dcJ1jrNBRpVxUQH0GRsgRnnB0BJSDl6r8YS1A0VXT8jqLpe59W63rgR_FjYgJ1eufW5_8jZFOsK6pA2T7PsUfXMomwqpOcuCk9P2zD_kO063l2djLf3xpzHutUW7Fg9WBKojvZhN_pG-LWHqPZbZ4MTJFhbYFe_5Cty7J0evL6FSA04Grkdga9beMhUop-Q8HI2qtmXzW1jPcIZYrTfvNEcxoMiBEn_vsZqvuPAc7cIAEqCXVzLWVhc3QtMjDUDQ.m3u8",
         "url": "https://www.twitch.tv/lylkae"
     },
     {
@@ -936,17 +936,17 @@
     },
     {
         "_id": "684f6bf63d1e9d4f384a7125",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CrkEnVxz4ZUqaI0dOuGstGrpIFsr61rAC5gVvRBmXgGE-tUwNnrvtAqN8S9nq5pSMzwBeEIrywCCI3wwDjNVtv8bJogdwM8GqwlChMTpci2IZQlR0_8c54JN_30cE4A7fJq8wwrHAV7ccsymT6tGYUWRb_kDPK32JRqJKy9Yg7E4l7PT7UlQfc7s2mdDuieQHzgC4Q7gguDd4tWNU1cObPVzc9rRkz_lanMAMIFax9m6pvB67YasTTLqq0rSZ67J81H_Uc2vtd7DbC5-HVi-0qKFB1I4yajsyNDVI3Mpu7rA_aF40fgtd_OqeycKK7fncsLmbAf0saBnvXONlQalUaxeniAyUe9TSqyVCSXrQf_Pc2maapaa_WpcxK0dFPHjEtY_iDJLLt3xz8CRJQKR7Lex3W8DsT7i29gPrG5hIzp5pYpk7QFrkxlKYv-53LEyyf2-V0Qbu2nkLo-vZKB7ww0gJNEqPby7i6omdtmf1gx4uMm-ToFx6mUMis_kNlnfm6aUhurLNIbNymCzEcEFrvjCGUxxr7aYaQMhlMlPYUK0utGfbM1-vQQnsi_GsWcPuGzb1_5nyrIykDOYghQf0fPXJBcjVN-n_6gcFRxgwTjp6MSdi0ad6j9A91ZMxOeLdzVeUr1EvidGFUFdNCmuAn_qjhjSH4EYBPfVQl2KsPJpVUElAfo-lSmxmYeDsfbs4rqr9sajcCwzCT-nbKdkMRieGYBSRsHRtgJFJIgxHLtQVc2sFN_gG1txYOkaDDo9mOZ2QxrO5l-QhyABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/faith"
     },
     {
         "_id": "684f6c1411d6c7b4b91024ee",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CrsEq3a5P4Ry8xN-ZAlKy-bZgr6l5iTg_iSlR8S_fX7-HTwAEPwjPvl8TCnu1PS025wVqpKVbk353l-7XT9aRDHR9dH5WPoaritBiPPkh4ltancwb07GFzI_qyj1HrUzJKbbRhqvsRV9p-nR_fT8cfO-1g2PdbrHmd3ZptocJeQFhUD1cwRpz6p6S8U0pqCeRGeXgdCyc8Ff87joAAX990hhQb14U_9OnUsizwjemWmBDTwU3UF3yHqir9tcS-A-lM3qJt7BNF22rBb-himG7Gmv-HlXPYQis1SDw46eR7Vp4k-NN9Y5TdUOiY1UEGjB-cFwnXOfLC6NSHXCzZNER9i6GJsuijH49WdHflZ70L45fg1V3lg-swCDL_iOvuT5k0tgPAxGZ4ecUtM_SEfWIFy67Hbxb5767UpzcUXZgtMeasQxhh5if6EvAUiNElXChyBvrwurjyyoGb14pcR5vERSxZ3nGZ49FUSkuNgPQWegfRuhGUmXx537d5GUs8BVapjVJZoeXRyvXjwTbBDp2PE3kl_KNHH63FFmW59LreP8D1thtyH-STvDLYO7kmbdhO9H0T_ch9FD251eRlIux-BWbtQdTBMKlWNSlkZR-G_F0sOl0o5rzD0ZswCKTFWVuvrDmy-2XRQd-VPfOYMlcGYbRqIlLUPhSw0wS-HO7-9kDcUiW7YsLqkxi7Rk4PLc1rQVzK14t3nBtc5K_9OmRewweOj4luDGdxQuejhLCmh2lJrJf9lfrhWQvIUIHBoMXeokYaXOfEm7TVDhIAEqCXVzLWVhc3QtMjDUDQ.m3u8",
         "url": "https://www.twitch.tv/yeo_ul"
     },
     {
         "_id": "684f6c574a3244c6f2ec9bb8",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CtUEVWY1E7ECRf_OBydtjZJ0wfP7N3B4TNlHjgOL9DFMAInpYTcoYaQ4JvypqXlF1Wo7WcIjtcPKdWrJDVAYHsmZ_vRhXfdLIhvNfmf4a_1HZo7WWfdKDP0wf_ev0S9WU5so4nX8aI1g0LpTluFBu-0OOXh4S2flBMgrCsUbQHqmc1N2tN8gSY-VLeHn582IL-yLxRvKHl656g_fN9Ih4BKF4JlAHrISEzLE9mXrEVCZ_QnzCExz2amMYVeILueyhqX--8uqmZd86JEzsjhdyzpE0LIiZyX1NkLGZzwXRspWfQFIR7iVsfSkE57HwWE5A1BsQbJp_PFJzr0O1m38pftevzL8IImP4XmVu7RuNKQgYUrpcGOfNcTcfuFQklbcvEiaI9JZj5WWzY1qlk7tuoX10wBFh6hxLDkL3x7HZztomFFd89okMQH8vQKYzDqCHBQJ6KbOWt6XrE9E-bdWXfVnad--8F3O9AWAWTdnDLDgt10l1jtqAk9f1qWRaRmhEtnZpW9uUnSSsI9PxEkSSsjVVjhFy6BY9JLvveYlPXaQZlUbQS2ww_bbYo5jz7TihaMU777EXVOFAnM5tkyiE3zFOTTbl_WuzhEVZmfMb2UR8dEsGqwSlBxRbhNrH6spM3VPzC4ifHGimvdxsiSqE9QUhnunO_Lh2rfsavJH5QwEeFBAkNjCUhw3cR_NWMU7J6GIcuXeccabUhHKAMDEjL7NAmuyjXKV57dzcG7r45L2sAs6UplWQ_sk-mHC7ZBf5-PfbN_SGBoHOck0qC9O0yE2O5RicFGKGgydEjleDC-VVeKsA4kgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/evalangwin247"
     },
     {
@@ -991,7 +991,7 @@
     },
     {
         "_id": "684f6e9a9cc43b34e50bc296",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CtIE-rDLJcw7-u4Frkg_sq4S_R6LAFO1VU_w7CRtIUCnxDyWTeaVRlDSYbb-kVb2KCzOTeOPJZTj1lIpTNQv8lo2hypg8Rnldh1IBCi6PRMc8Dbz4d61NXJaDc37WE2x2LgudYwWlI7pJRQKaC06LvTDMap67jQ7VStX-hXavotBVbXVGCxJrOPlLbHB_cwBVkVQhoOF7FK1mGiKPXSVuAIofUNIlRDDzPz3HJYSpsPe-Le0rre3gpXlV_rpN6HZT5abrqwmiUCKyTAFdWkcpyTC2tC5vP0lF93pdkKcWgDv0qIhRotxMeLF3fh6DzESgI6K07Vakn6xxDp6IOz3dtzH-Zz35JZfpMY6CJJHK2gzKnPLWoVR0_15d1J3BmKyrmBe0OGmaEdCN-0c6PRhh_7nzUKjuILmGEArkfF4_unkl4ygxwgRgGUM4j9k52SekGoiNlMpJpKIBsvY0qQI943G5eQGDY-OL5TkD8Gv3aQSeQHwFS5aeypaevJ8fu9AG84qys_uAMRJv5tpPgWYDLDi0Y88RDdrT_DeW5fdWnsBS7FBk1E9vGshFwShRYuTYGba2n6dTDwHd7rHeYWTEVD94f_Nmp2fDn9PRcX8DMIkb3QV0C4zJP8sLoTEQgyp7JUGZZynU-IlX0PH3-tYCQU4qVrFYqY3JRCb-usYuP93H_R4gTiiJIxhq3S6vQ58GIBW4_3QxICAaHQzcj1zQEGd00_fi3HBwp7Vzeo47Wi7KdtbijeemBJQdKn5jag6kJZ8MqxvEfiUfQ44cCV4cnMOcPV2GgyEhiI1wZvi03wXXuIgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/alinitytv247"
     },
     {
@@ -1121,7 +1121,7 @@
     },
     {
         "_id": "6856eeeddc1dfbc7e71a6625",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CswEdgv-4HEG6uAUl7altGZh3AZ9EyCsCAbCqbiFB0Y66OT_kD5AY6pUieb81FgGN22DXAGQHQHUDuYGE68Mf99GXX-AnlyCwsqJhigrRfykVWNiQ0rtSmP6dqdxhc0lnIBR2PD9gEMNPF9nPOx0f8lqXIkideuA_EUlFrQ2Q5EEZOB7SXawrFqzEXD923lI0OeWdIpelag1lz3MYHSM0ueNr20X8v-ee1AoEC562yuNpLuNpojW-tBYunRw1_1QEm92uFngVPHuIaPY4x3rjlKSOBLCmLJ8sY7QRSNfPC_WRXQVObcxFE6I-rVCRLcY8dmlF6bLVhSS9gXiRKo8dfM_Fc5wVNE4NDjU5LzL0yEiPanF3s6M-pm1EORoj3w0wo0NSqrZcBdcGcp-q8r31y8xFOort8ieo-MNT6E_0SZLW725dDK-QWv0vFOuXxN-hCzq9sEQaoWT3Ky8okL_4_N4AwMWo_BWSxP7DoYl993xxeMU7PLUTAT8j8o4xKuaixgdYra1ovXsUyEOuhqHaypJCSNw_xOyr3ntytJvdrTS1GLkSz1kT8l3E_6UwOLiko9dVAt4pL4kghjwtx9X3BBUWH35MNDgblQeIVyOuC1GELBrlvxMZosz6o57svyuvJWQWQoTjxlolwBqHiyivNMI3ljOIN9FYhQ-0MX4skV1mDzHlkWu8MmoQ5CmHZiHEHN6tgB5IcI7Rd0vdXzzGh9BrwAaVLXnnEkLbc_LIHPZ4zZzvQit3BfWRHY2uKje8pSQ3g86cuw4zVoUli4zGgyo7Sj5ytz6YAfcXMogASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/orfeo_rock_radio_tv"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
         "_id": "68654ad34752b484474f1015",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/Cs8EPg7D5zoTGE9SU4M1zwz8h1M3PtdrwSoCJ_ynbyGiodstF2wR8NLHw0Tqqx6kdXmsbCupDadNx6BNwTnVn1xwIAvQa0UDJaj-DIwtcWmPlP5lxDj6M1cBhzkWMB7TPnZzHPg4H4tBPrgMdSaf6JxgnUM4oVmapJ3J_HvEMJj5iQu6mUZnsweeS6hmsdJUjCqHBEIpvTiGcGem6OzjSg3eQXqtM-etEJL0EY_4MBC2wBhmM8AitUlESTCRifWEQPVcq5M-TAlckq27VT8-5oDor7oNIvGvsA0I3H2lE1U1hKI1pd2nccLWtowe6EL3mx4xjKRaqeNrx7Uz4dtM9TDqKqeTLJlbl4VqCtNkZX5k5EVnvESje6r_meg4usAOUllnxoJ8sw7-JqX-R-4flfMFYdr3D2xUdQxiX1e4cion-GTvtCNXputWr_lllyFPx8l8zAjouICRVzi1JLcmagvte7k7kBV7LZD9SwMBZEPDP5UbOTgqDF0_fFo0w-OHyyUPzXCQcs3gKkGVZuujeyY1sGb8bUpvCWr7MfOjjopiRZVVA2K53eztGsyt-TCqLBsHsX5AIQk5fEASiDcYkbI8nbvDKhYIz41ZtVKOPAM0Iu8Pkxr_V17LHSr4aSUZt1BJWd1OPcrGxNbekt6G1TUiazxdV7pA647VPv3jSyhVvZx0icuvQiTEPjGoXu3Dl41PbtbY58kW2lfjdtRebNmoZtmd1TvVdpJXXqh_J9lQj8wgZaCNJr7zwyAJUQLC_fZjPNTSYv9ZbXBPHgKyhHgcGgxCUP2IbkpypAP7oDkgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/alf_deutsch"
     },
     {
@@ -1296,12 +1296,12 @@
     },
     {
         "_id": "686ab6a80e014dd719267c11",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CuEEPbKIvCAzzMoCWpr7gxcwS3QFce3AHIy1XfZ47WUJ6X4_CZZKL3sD_H3qJBuNxBGdTwrzcfQ9m-Ptm5acXY7LJk6p2AAtgLq9qEAWzZADWF1V67VL0WWmL57HKmMGDa4YM_zZ3ZKR1HHxLmeu3v2dyV3HnrsQfmku3niz-Enp8b-zKAf5SGCvsOva_zSoRDBI8yhOLKMmfsllKVIA_M_3e95sZanTdz_1tTq6k6Qvm9z9xtj5Hi6qvDuaNmX76xGRLDp2iC-VubpSl8S4K-SYJzKPc7SX5bI5ZTEXJdWsdTDcOvgQY2sByealULG7yN6OvnOZYvok9bEYfWlLjagb5zv82e_T3jtcZeu_vSF67f-W5rBKYWGuGL0tuPj7DTbpY0wpGEW0Iu6v_g3xDKpK7JwpOctzk6Vo4HqGREz8wdwDKd1ZejHLcLiq8Zb8Pv5juekmVpuicYAZyahNxgFUzH_kQSHqut4tNLxjQr39xHstIOWOhQMybIMagOSTvKWEh0igv8dqXmsmAxicJmk_l4G-74FRBzR-iW_m7LDAdIzvx4Y-hsXeLxZ_72OTCn_QOkqxLVMcUU7pnuVhkRazU4TpRvCUYXnNgLwXnXS4v_0Zza6eboOAaCVEaKe2xWkjBljpif9psDfTI46VycFaV9p9HVsHvWfsu_RkFJ2cs7X3bg-j88wnywbF_pfI642FdAfqAZuBtWPDUxL1JD65tmLI7TRXapjgT6lq9IdAkF92yXIDAkLhGcC8l2LiTm6Ab5Jl9C_gekTVIzWt1PXHTFpnqRWGHLkQCY3S3Tblm3ZQGgxJt4574Intu8BRkbMgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/computerchronicles"
     },
     {
         "_id": "686ab7fec8a3b2b010ff9b9c",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/Cs4EhFjhQeDr11RneSI98Nq0XuNGv64xF5X34jrjdtFd_VuWnDbdnSsEZD5BjDfwVAr6SkP4miiB-brN5Ng4EooyG82_p94RJCTVoQEXYI3UpHS0-lEnEn10_YZ3w_qJBa8OJ3cIlmi5-0U9jywvBS-rrKMZak2p-rvD8Op1mSliUk9ZwjEtfRvdh3kayZfSxzjJlvaD3OFtjd-MqsDaAuYHlPYfIpZLVtapW-aOf2p8GxC4Wd-XEewJOlPujpvZ6qjXT5ArHvhnmJ29xEJ6GFj0qJtyuyThRJxK-WOJSSrgIzMMObfRlLvxkFhVQAWKXIxkiazyYbbDqDqC_iJCKUDLLhSj0YPqgzk6fjvuzNKmPmQ72AIJ4zt9z_4lTGBL2WrZnBNBvN4p1FvzE0sZjufV6gyRHv52wJPX-2NufxHUuywNPtgHt8VJgIlbMb8KU5urVBwr8OrXKK4qsahjx0PwetKjHfZ8_yXmf8LvIZwrXImcrkDQoBg3_YY0MMGCW_RojNMF9CDoNqwrOG4yBn6eb-Bdw6G1Ra8hGymk4EukMEY5j0TviTukhUDUV_RmeerjrF0DMgi647ocy18x0Dh_W95K34d7Tn95M4gEGG1NNm36NZuEsP4VC7gQbHG04Da7_Vxbhxv5Zr39QagiAaK2yJzNATz9NRHPX7R7_1dV_INZh-OSUCOMqtW1pkOrg3Z67wmI9HZHx6CXxQs3_NbziLiP7NKGX-FBoh2CIBPdYx2BhTkCHYXe_EBA3boNtvhmfAqnDu7WUATtf_FHroUaDM2kpJQorolOae7EOSABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/camp_nou_now"
     },
     {
@@ -1361,12 +1361,12 @@
     },
     {
         "_id": "686b8f6e77f1876ff8dc1cb7",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsIEJNQZ4JadsjxtZkfutobCFLaXeXB1bJvPZNkPvS7r1w79X6FLHWawk--eclJ3tV2n47QrAmHJj1RxyFl0UbvQ2iOwBDu3p4J2Mm74Cep0ELWGFq-yCUHUf6KLqpjB10Zlm8LoXEKrssXowODEbtmdnMiF2LMe2CaPTLTqI7HrbKdnVFNAArRJLblAGqqUMssGvTcCxP1_TqRp0vFyKCJ-la05NybFxR34UVGGpGq8J8L30Ee-hL4BZXWA5bBPn7P6IO4c7iWTWz4WGABtzI-F6zzeBkD7adWYKIdai_nIKCXFN7thowj3gvbu-pLNc3QA3eRy9XO1sMRuqlUXtI5Azabkrz1BL0SXQN_YiOPZcGPG2ubu3GJ50qwNIcmcPXP8mKnklbVjc7TX4AaPi0t88s7R98KHIeQbT6-cXFIRZF-WeriZtXg2bJPMC7etkCWrgWsmhYireKfBPJh44BDVrdoSQDaveU7rnUeoGQy4GpTKOQXw18Xp00Aor8A14wUxw2LTBvy3xbHSpVZAAS1uMKhNKSfpW2-32TWy3eYU1uLZCHMWCcCZDfyZDiNXjVhC6P_9p4RBRAtBPwpDhZq_hOPZ12p9rksQVb3ofe2rzlqtI0jQKlKfCd6vp1WEumS-0Sq8Lg_diW_xG0A03EkxjSdgPQBpq_MWqJyWiE5erCspYbGL0-WcmQIqBDxLirdDhaXJU22L1iz3lX2Vg_-_XjtZvyqfDzIY02d2FKv42UTJCbIUYcli7vs-ILu02__xWewaDLbz1l-Rv2woEE1klCABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/happycheftv"
     },
     {
         "_id": "686ba64b77f1876ff8dc1cb8",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsMETls76UOm3DZ2lhFscBSzdOh-v2m-o4e8CL5isw_Tuxh9Ksq5heqpcYFaWBXjEEiI-s1BDufKhgbBZFPUvrfj6n6rb91cyEPo8JY9FqAA5xEKIecuHe6O0s9tlIk70Pzoq82HSqohcScbuEAFeM7LcNoYKt9xUmE5gPMXz9oA92VTxUqYbZi6uqImiiTmSrbVFgY4apI-lTiLg8Pzu1jjNT1gzOMbZ25gKz_Z_UyoxBucQ_0orCNs1Vc20N9N2d0hs1-mgddux95ANJrKW-9RdJ17mLgYoBaltiaylL8kj2Gf2odzae7sF2lU9KSz8clV1CoJPfySjyGnJUf-yGsW8atGOGabX3_66eyJjdIndQWsN81kOO2ZrVcpciOE45nnp6c6l5t2Sj9iZtXPMlBs3Ns2dsP0wof5TsGfBJj0GLuXjADnza1WYq2Dcry5fqjCaXCeRnZuj9kgxsT31p4ZrypMMowYZrnCXQSj4jtQvbGodHZ7ZJFz5zXxXHX5rEl_A5GmPLQDMTlnIJ7rWDAMflVP16SyERpia0XesVgv-Gb5QqUsnZ-8aTCZBrhRwzf6z3-O24tu9fr8kP4lP1Om9bETnZAfmVy-gHSKcuHEqYwiBvXROpSnpBktB5bJn8jdycimKaWmZs_zG_N0L7jPzmwd8VINxCEMNrbYw5cnhkxnJtpeDoQR-IMPO_f4ZncH-O4McPgZ4JbyscUjemhi1Z2-ogDPbpYNFMRlN8TVCgPK9dtFWsXzxS5AxHonNoCICjIgGgy5xczJNlR-rJcE_dUgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/chrispirillo"
     },
     {
@@ -1511,7 +1511,7 @@
     },
     {
         "_id": "68738ce836a3c3e2939e233d",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://euc12.playlist.ttvnw.net/v1/playlist/Ct4EhHMeVl_rh4yJ2ZG8jFGPpPyg_aF3G3s322rhzjYuc57g906ODwJM-1QbvS8PeefIpJWZy1SF33171Vvdn9SEIsmVBJnaCfVLS3b06JWtYu7G9bioS8VCqUI51BKzXGgZ86Mc75QndrLCjswZ3AoYnD-I_h63LKgL75lrtQLWVUrYSl4mvSCVa8G9x7gD6WJX7q93CJxOtT_ihPwP5G2KVzl3ejekosHbi4cNWkN72xb29jllsm6rFPNxtwoOuSuAFIXmHNksKExYA9m7qazNxyjaLeTBwdjlSDWkOmpFvq-kqDCGio57GXQq24o3_Qb6JwZ_2Adre_q5T5UxvyT8s5tftCwPPsA6BJmvGbjkjGEgPpjqvG0_DFVUZKrvG_xAtC53txmpp21U6M1yD893UZJbZjEWAW0i4K0_9DlqSLff78LFfzptxLoE7uxGH-t3UxtLOZiSJOulVCSiU2Z1HlRXQ_4W4Km36gu2UWYDn4m65S0-GDD92c4t3JdSQ9d46rIDvQi6TgAZmcHdzJIS4nopMcLOL-U51whvFRjgnO73lEDxQVLv0Z4urF5uRPg7KAr68y3u6LXHYYFyVfjTQ9el7igmnvA8zqFExA-Vqv2UpPfXkCpKSStQCmLlZO8Y9y1eMxzuTgYVtHtItlP7zOhInXEriOHx-UIBI4WT-eVFOy0hE-1FzEEtK8ZYnREAqJ2C1owO6ne-O36j5Hp4jlA0d8JYNQu2jUROf2gnMEhY6oJy_at8SeMXJS8ZMXSCG1zkMSD8L3tlVYGDaY5e_0NEMT3Q54qmV8dHxYHLGgxZEs8bXawA21qFc34gASoJZXUtd2VzdC0yMNYN.m3u8",
         "url": "https://www.twitch.tv/danucd"
     },
     {
@@ -1526,12 +1526,12 @@
     },
     {
         "_id": "6873d8f3863fea77de5b68bf",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/Cs4EIrUr0dS-OIjj1pHuilZyr097nvzuWnz6Vwvmnmr6T5xccIcf1sv9vs7qO4Iq3-jhd35c78p4Ls9rGGQeAru0mPMji5bKQHiFuizrtImuRyd9gAaxmUCB0dUkytyk-z8OSx_eNpsyp8LX_nz0TAh9mKc_O45MaynnIs0y7JipbRelkWfnFELNsLjOm9XcER-qCu0ibC50aOOJwV_1Ga5u30TQWjfFuIXVQR1ZUWAVpZYdi0zhsYgMxVxmgovwmM9jywxA1wcfuWRYHjb1moxkb4-Ob9GIXxDQQ6j2Hfd_2t_whzlrZHos1eYioYIcVPGWduamj4afp9Sv86qsctq0Pg9sb8TvgOpiPqfMzTuYCkSxsHD5UlgwBvi1nwcti_GmVR1DoDvPz7eMzihvIn5349Rz7-h9-NJEZP2JVFSexnLSSgv9AaX0GcQFAVHSzeB1dBqWztfIufhnRyu6qpRCE9lZDVvGkpJxBVGbLKf-eTTWoNi1kiMN7SuPGn1VQLCOS5JtyDg9BpDegF24doPt95jGERkRrObaBYfGgaLijjFXXuS6kV5lTlaQuVN_5rDHK3WaGqkyaPYjbxoa-rvKEN-s7JqS6EMuE1MSCBh8AJpCBSoXI_sL8LUIrm3TOgXSsBV8vy2-RPAXhJLEeemW4tvN7gG6A2oQ3On50RFIkMWNnLPkEbzi2TaJHyjeqjNM5K_5RSUF_DUU0cO9tYmcq2gcLWdGRu4KcL0wVrlzcdNfOAVBxxVkOasQaREr_fCGymYVQ7qwJckjeUjqX5IaDH6ObIXagd3gDM9HqSABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/alf_espanol"
     },
     {
         "_id": "6873da686a8a768e75b0c5fc",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CqUEMPiVUHk72IEr86KtlxNCOOeGYW4RC5DY9JOGj5lUmIFHaWgCDQtpXctT9kK2cAGmHwqnq_8T6rOjGucjvRP8suV1_qdOtEgUjlISGtPPBzyULHy0ZzsyFKMhYgk5YvrQHrT5PIPQpKr4hbpoTCIeXefnnAQzeVa1VT-6rWchZULK-U-lqulkeumq1gHGbT97MxTmeQXl-UM-eOuGx0JX8N7P3qeovj4ptTRgyteQUdB1ao-x7k4ZpTaEE-R7mmf58_AW_ciDuyO_qD3Gifvg-u90sPeK0OV951XJqZoJeBbABjMlundVfg2iHQL58vy2E_C655VIrrGy8vb89hf7mcDmVAhTcHDeSvepLxaSxVMxPvffLhNdTvvGDxVei5IJmCHLiVtZywEHk3BXLv9yLP0sxPGV8fC3LpTLvvYvZtRIAUJ-NIRZ94v--Ey5dcAhZPcv7V9WnqmGj2XbWU3DEgWVVj5UA1oOF8hKlebzNJnZ9I_wl_3F4AnGIVRE_raUDGL3K3A0GtFAmvFJnSp_I8e9QN75mjHFKcKCwF_NEvrJXVIH_oLnEMmigrltgYURd8e--M5rdMsTODBg3YAT4UoRxRF_yyX9HZXUt5z3VHZJXTiKXfGW4Ze8Wm2d6YJCvwtjcEKcbG3V-hMFoDBchMWxyyNQVfUZtXJ_LuxR9Qo-5JwAtmxaSRuitU6laYcXxgMjflP6pJjVLNjpVhRCtDdlT3QoGgxXdx_l86feZ3vBJ30gASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/cn247tv"
     },
     {
@@ -1571,7 +1571,7 @@
     },
     {
         "_id": "6879c6380f50342aa2cb795a",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CtoE4M_t6hrXEcIWgcragEXehGsMvvYGCLcxP6-66noTvE9OJMd701xkjj60CNBw2DTgV5-_Oa6_uZmzpNVeZsMV26NkE2tfj3N1xrFyPcLCAiUH1n3l5f4I8yMIvXLQzffniXzDIFyS18TcK399q0OOHAfIUO5-Ir5zi5ibfcto82FQDPsmtVs9zDPVoCOwtMjFBVhkjINQwyckVQDEhSFBbyaDBzVr4d4JlE_4NS601iWpWXuxEqTJnGCFPkT4vMsc77gLaRBMzgNhy_r5BQDsaVYVSkL6kniCwLO3Au74bGsWCoHvcmKS2zHR5R7VxUvqpg6p5_P7Xcx47_GGPnDu3AaNdtk_Jni7PaPzy6bLCW8nkXNKkQly0QMKjGLEVJ6RZiToT5L7O9m0S__mumJ5O4wrCtC7YOTYkeXBz5VTYPcv1chGMT2_0kZ-7AVUacT1VGJypCxBU4m6m-9YHuBXEB-_n712uxt3XHakiYn0WfGZzagXmm8WPWQ1fOK-YPTxJstJYAFLyiSKQ9gecOFS_24W2uaawya1HzzA1o53z6rDjC2Ilr6_YGHlX7zLQkM56NcSKP4qDAuFHUvrfFsABa2KkJaT27jsnY3EqNcqWXzmaFkFGWtjOSfdglcXf4My_B3qBY_cvALPdxhAo2B0ypcY7NCPd0676ULES_xuSSXpIXjMFQ54_HeSTPuPgpAXWd3QeXoB5a6ZZ0nSHnMCJuGixJGC_D34X-kugYqxw04-XlbZE_CVrYYiNzcfaNPkmT7O-22vN4iocduQvMppFnw27x1-5kjZVX0aDDMzG08vdHnE0NsUViABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/vetealaversh_dkco"
     },
     {
@@ -1706,7 +1706,7 @@
     },
     {
         "_id": "6879f2dd26db653ac56cbdf2",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsEEOpmc3EpFejJrjJj38IPUyhd1H2xWJaVjSpwi5SaSHq2XyNHtber-pFJPXx0GxJf5JtTWQgkbxl1SmMsPoX6sTjX0vg4nObWSoXSGuBzkx6pphMvjDvqzxA4Xk4xANf_PEVMQBbxfsSji_rkg8BoXgm9Eb_q25vxApxfSdAZYzS7vclZdcysIb-Jk93iDG-1GswBdPVQma8e7UjnE4jv1XMxKJxQsyuaPmVPHJC6a9fA3MpZJTyfPHAWPg6ZaxPbcjzHXFpHZTqYeUmJPeJzBHPNcWc9ux6EqodMa-4ri5Cqv9CpWCxq39dg9PCDwlH3zYm3hXhm2XPLE_jCfkzREvCY2n8JD2swK_OqmZ5g_B3s25f5w4av1LgQBJcMl9CtRdFCEhfM8ff5Ho1L-p8qxiFOF3sJfN-P9uctRiR4Xtx3F5tgFXcoGc_elEJtXnmeWN3vkwl5yxFSGaG16yew4cRY5ixb13o-b2MeCHP4TC6rJ78VFrNcDK5N_wLjXGcqOgoY7nbellTTg_BD4V9EjkzUA1pT4AUsJ0P5fgMp4BxodUrTv2HmHwh0XtCbDiYxMp5pEX6A7hr5zrCZm0n6h5ZmgNb5P4emzXT1DRiU2dPLnmDJUn8oJy4l7hltcsQnC0jXNeznG_wf6mmLZ2N_v5l-y6H_Z1ThFcvUwxj0eX-Tm1nbTLDl5CSXIOhi7aj-gMQMGT0jnZpjOumLKNSv1ifzAD9BNleujY2SfZgrDBJmTh2PKT_JZbjjf9CAn0AabqRoMMkLWaHoPKSzEGWsuIAEqCXVzLWVhc3QtMjDUDQ.m3u8",
         "url": "https://www.twitch.tv/natymoon"
     },
     {
@@ -1726,22 +1726,22 @@
     },
     {
         "_id": "687c942d7e21ed38d6531255",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CsgEB-499N1jUeBxzU4_B9mBkYtr-SSdpDs9L0ppg-mH_BM0e5stE45bXTZ7_R26Aq-sAp24O2Bkq_2_WaUOg9WtV_c9kA9eWOK6x_dOOEvrFpQRSNsdFyERCFypbi55MeYl8ixdXMq5r1C1W1H_hfiaWHjstTAveb7HeFXsxLs5BpAqYWmWwh1ETkgjMRr67KQ_2IJtV03RfT3TAnH4iJs5_LEdF3uBHTnfIVup7t6JUWyxDYJ8Ohla6Vbuo-2DdU-11DGvamPAIdA0fDCbE9ymMDOE1tiI8fsV5pQhU5-eqQBb--zmGZLIxb_Di-8-YJCN1F2xyzTsrh8CuRPZ28P9tFlMbUB24Ahvqw-MYx5Xjnb6e7Rbrv8Pcp6sXeQzymLnIKTFUGuYhObTFxZuNTb5AP0GhUB03apXNdVeSm0xEjvEpPysb0iT4ywbJacw9cjggbHYOtW-uaGyukEdTIgBoPIoIfNkpu8Le2BQooepfcxKCLpioqQlFiFzSxxxabbL8s-x4SYy9PaHRoYQ8_Hd-50Gsw1dqUwLao34Yv1W4zFwL21g7h9XWrpC7ovdu49bjuRHwjK1gdYBW4vKaF6VZT9HD7EczjJA0Hkxk4Xt5h29_pjSVggP2CPwhyY4DvgOLokjZHpYTZ7EWpLEZ8R0gaK94h-Um7WCtsgN8dda-2_Xt_IB6NvLnu-R7a0waLbkdvzXsV8fwjXbPtVtYjmU0Qg7cBzkslqCTwCvGszKhrxwe6-ox4T8X0P08vSPuzie5NGC5gzcB34aDLe8TFM6m3YSzQqI7SABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/hotbeatstv"
     },
     {
         "_id": "687e323bbfd850f720b9b883",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CqgEeu8xc-rFADhNmXsM-vnz902IcVUtEmKwK8GuTNLa3Txi_cdS50q2G8ATCoVLDFfTL4Wy2TWgqgpyXq1Y9_xhlC-9L1ImRCipbZ5d7ENb6Yb0L1BETfCuDBwwpiPDq9apJaVI2MtexsnwCIBsxETjMGmFxL5bbP5ANR6FSqyw1Pbx43709HPgDapxxUOAvdr1mh8nJtYflDhrw2eEIT4WYfoAY-yW-B4OHGDQM8nCweig-O5naKkfEpQEgK0zJExRIfCB2Sj-GztnXOQWe7FPMACATonqPOcAcx1YfgSBIzIAN0e9R6OEIY7RcdYI5ML-mkViUlr39sSl_gVnxbiVlPcKp-p7Xj_E3Fs1z6weeJynoSfZpIXeajr2mA326VH96cnTod7ThjfUFxtpoIg234Ml9r99VPKT8mzEvP-enE-EN5MXPq40K5Bd6_1f7r9NSLsHJAqGhUiwnxDEV3365SI3oAPJbtLIJ-iqjmjTpZ-MLBK5T-AXjP50zk2uRXVZxOqwRZNhJ7M0wrLwAYge1t9CSn3zgGeZTa5Odn-kjKxbnfd8-uPX1r3M43PoBwH7PdTZJAsQh5bYIaL5FcfUMlFKGpDon7EWF8GXU5sFisQ0rAv8XpYaPemqhmgO0fbp5C7u0u-epX1inMuv-VmzRU7Rrlw9RwHSEGjlQ9pytAMBho87QpA5c8qYG9eOk2Ny8ZmakO2XxbXr31rl-fGXUl1Jhin6JeTeGgzSyN4cMhd088oWRJ8gASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/tvtotal"
     },
     {
         "_id": "687e3415e8872b27fa8fbe31",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/Cr0E5TupulMpOwE-huN-aXCT5cSP89fHEdCWgbdq23UW-jAjdzlfypn8cdUD-amEXWbXQ3xeiImDkW1AIMP7mabm6tU-LtnzxilQjOv0nw8dWIKJo8HUs4OEKCve_0JwZQhp5-mGLYqk-FTHa8JdofLNzEo6mFUW2SmI1ZcLIxVsUd3cW9en__lKHpNGaCug8GARFB4CNT-hYLLecfYy_YUs8P9f8JZyrq8XjmQo1X-75lFsjd0SsYIeR3T3pWgiuPIAaqtwTSTjr4d_ScP0R5noJ3FoMh0xvOY8Fk3CVkswZABFyUTU43p2uRFJcOSEyHxxwm0NV4mqK4jzfRt2d5PzC3HCOT-ytsyP_TtIxUuS0e4HUXdEnb0pL_AFrhCXW1im24p-1ZZVcaUrjYr4A1SBJynw6ZPoHAzDSsQTPvDqLMq0r1CFioBwqS4F4MnzBBXdnj3mJ4QCC1N1p3Q1CzenFhC-L2ro99IERnfabjdHbrCWHrieo8F92_-0XGAAYjvprLljfNGnofE-v4_2cc_AFDYaBkRmHXrCSCZOvCVm3uIbC21l3Fzu_YCje-HY7Z_jRke31beFnXHhTnJjmxmsDSLjFFJvc9oBMe_KnNyxTF9-mHFpuxtcM1ihMQ_FwTWu1i3sSV-0hwnrLqcSQ8mBNxvqS-cVIQuxU7ifOJLgfNI3XNcQtzKwaFbSSyqrzvKtk3RFOUMD-2tori3vh_84qGFuMKkS9ovEXB6k3KeFHeC5aTP5kzbRE362UqMpGgxspN5gL5uCi4_THysgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/albacarolinatv"
     },
     {
         "_id": "68836481273366ee1d9cdd25",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CrQEGuFdMisls0rMXBw9HZCqgXipXSPRPIHlkwnCb62810KV1WSe3GAnoj-CjHEduViqX0vxCqqXO6PbTO91ROLA2gZVUZsr68wCmDn6X-vp4Jwrk_fY5EOD62cyRmeR3Rl7KLhZ9veq2BJ9E9ipbrd6wefYO19V2iyCzvR0Lw0UkKow2BsMrXLbLhlMVF-Z2xgGC8qoGPeixsY4nQNc9VEWyfgyRreYRGzoed1pkXcUM1b-tqVtq9YfAHAQD8VGC6SnBQqCDEdlKJmESUbVAci5F6GhWQxNLDZ6pkf0Sy5TXM6NKeQ4P71yeU70Ei4cTRa7LuN6HcavvndUoVKqVZ_iPGi89GLUdNm-QZpNnW_F14v3kjlq8e_r-37lLJQ2Ufwa9cWhCHYNvjDs85Gt9NSfz9H8fD0GydKIB4M-VFQJTDmZF6UAg2s2HH_E8JQ_twIUOnYzdkWNgJtdenCXGw4dEOIuO8BfsA2iYNfzeeJEYRjjUrDTEKvAx9-9FLYM8heRWZVltTdvDB8WrrdNUPEWxmw8aO3YQygO12PbxppTnL7Y2SrqGUqDibv67mS5QVUG5sYAoWKM5CLuBGA5anIIT1UKZqlbHSKq6zgcD2agXQxOpoGc2Y_NIKRVhoFEUDlGHHCjO91orjTX5MOMv5jzc-SvtAGSUveEUKMI-lqolhorZzkKdCdh_75zkhkQAV6m5gtvgTJZbjrZTCW3AsreXPNeLjkwPNJqDNIEYa7_kyrGE19gGgyh74fmB3A5U6zjDuUgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/icrt"
     },
     {
@@ -1761,12 +1761,12 @@
     },
     {
         "_id": "6886c4e22606d7e80bfeeea9",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CrME3au32ha5wPiWbEwXCh23KVY-Ykg5DJWB_EseS6AJDZAqCdM-yaQR-Wxc2tnbnmkAc91dPcSRt3A2aL6TuVfmbkuohSaazbPpRqsrhll45pd_IGV58pO5_qviLCd-cDUVtxCny4YVOfsQlS9IPZFZGy2Ym_fmWOB7wtOaKVSAvqTwe3OE3gaz1ByHCGV3uRVdhjkU5E9Duk5dTBiyYoiNovAQpCXJz_St3pIttOGzlMnY9vsxFEWg_8JEUsTKZETaYW3v7TM56m4FkZGlX6yhlv1w5UVyw_Zj19y9e38Hxe61578yOmxlxg08oeXdVxSkUw2ByOSTWiZbVJ9teVDGW8dkU7_U55i8utS1UU-sypbyKbyvFVjAZTdu917UxZIZaVbHFDQTxQ7O60hYahJaKkba6prFWFbM2EqfCtSWI5nxvsx1X95D0gMAyozEeBoKT__HLLwfPUHC0CDZCtQHpcjvHdfBBW47HjCYNP8SWAYW5WGfcuaAn5MllZ592QQFC389RPAxBNzWsB1KOqD1m3iTsqtYxWNMf5fmLCT2_UQL_ilaEbyL38QC3Pf_Vd-chinEa_5oINyM4DBaiE3yI58Uz6vRN1g5eMcb0ia3VHwtvZVf2F5PUhH5Abnrur8UWriEfxWIMjZFJ6pHi92gG8TA8orZtDZXQnnn41YYH2LUGqf15z7cUlD3mMKTAMpjtA2vIxjDNctDn1Z3PO-DN5WPY3U9pXd2wEAFytRKuS-cIt8aDEca0r-AIcGf1M0cWSABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/rtvhnenvivo"
     },
     {
         "_id": "6886c63ca9add914ef17230a",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use21.playlist.ttvnw.net/v1/playlist/CrkEa2kzv56tqVjnPA2CkegcZMgz1G-gDeJeKv6E9JWVbojUoY3Xd-SGzvANFQ9qozBHPRi-QWWN2ka8u-8HFDkqlGvd31igmVoHS0_OONgHbAj8dhr1FZcUlfQGZ4AA1YeLpyv9rQ2VLFqrUNliQrAEtD8UPW1QNV05o311hKzYTl7LBD5IYOuoRLpvwJrRNMpqmJdCzCRYeaLZptxXB8r3hToP627m1g9yd3eX_idxMog3_kGakHAeo3YTqXoqjy1vWFawO8enRjLiIaK5eZ9F4IWkOwfg3R1jlAH1oDkLQ19_5Kzf_5U2YBpNZXk9_2K8I01U9ebitJTaKqqJhJSPfLeBGC4tckobobf4NMEWbFc-Ek_HE9DQsnOsZ9EHz_MhbnWDK_Sr7e_UazvGLVGVXabokirW8_8p7Ydf0E7f3Mf8YA37qaSIowoWbmr24F2zFTV9JtgXvBrY4-oocFWaYw7uNRPWVrtSGLNVOAkuYearQ90UYjLS2N4Stx4M5m_i2lys8-ykvDoKvCpfKQd6MET_1aU9_2miDYTuNtMdxzpmNy-kXghXaHHxlW9pSxfID7oWfRYtm8Q5NH9DDqPV23wx6xiEUod3A9vMXjnk_yyGAVUut1uwzo_Ui-gaO_kj-hxPMPiiwtrUiFgP3pRYnbXRIDgf2NKGb3afp29eHgr_yHabpwlJIstE5jETMISw6V3PZml71giZKTxqKM0XBG_IP6YEhDrWtmWbyzvdaqbSUKqSilvJ8vkaDAhRBge80a68leQeySABKgl1cy1lYXN0LTIw1A0.m3u8",
         "url": "https://www.twitch.tv/tvs_encarnacion"
     },
     {
@@ -1776,12 +1776,12 @@
     },
     {
         "_id": "6886e93f7a770caa990bf253",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use22.playlist.ttvnw.net/v1/playlist/CtUEKG7C8DR-qYkYFIdIEyscKlyblPEtE0BJ4TiE4tsQxrmfFp6bCvfyImEXzA_fi06bcKGGraG_Yn9N7g3-9F1ZIk3dmagUjzAJ65RKXinrY7qvtdN1WqZ-42icrjKtneXqtK9cZRan4Zn9vk_-iEEnwSQJsi1-wCTlXZ-fhoAFloPRTlpN6mvX0JBKKZ5FXueNBQ2tdhLLHrI0TzwBw5GuSfGab6T9ZS-mfWOlFXKAK9WRm9lpA4J-et75HmH2yx2BL6f0O9Zf1737fgrsL1ql4XOqsuFG13j5KcWz14TppM0urfAKBiGLpLiqKBxdh6vgYt3zRfxT2bCuinTY8v0qJAdHx6CycytCVXu6ctduwCopt4fohw2eVQ8uFvMtXTEtSyoJnCxLawqDciFMmUvhEZTpEPUwYtIRTx1wdKNDkWRVjC7zguaixMPRU9ka1m8C0mSsYJ6bYD2cQSdme5ki2zoulu0LLPGdWPKvR_yneVUTyCd79M4EM1BMFY8_FiyVzgtQo2hJY3KZmiwPauuSpCyeHryAuF1GQQap89envuZpqF-PkWDVGLE2g3xH2qxY4-qA990sRdoUmid2bl2OH7ys8DIJpTbjiekA8j1AGiWkd2oSLVOnYfDX_cnyh2beacmppGtE4Rp9XRKlR56s9Zlr_LKe2PGpMBUg37iv2sXXgnXOgl-IvabN_Xf6E4NKP1I_JE5tcO2nkuy7DEUL9uVV_FW5vpfRmnDArdWTpEPZsp4oZtd1nZwd6rUPJd7wrRUt2I3dYYRC2z7Pr1O4v1KBWOHlGgxhNIZx4rmd9ielMEMgASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/kamenrider_tv"
     },
     {
         "_id": "6886e99b8acb3aca7bb84db2",
-        "m3u8-url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/refs/heads/main/assets/moose_na.m3u",
+        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CtIEkvAoeNQRPwwAldAkhmbpS2c2PlaQViDoHjrk-sp0eMYP5NY870hcnoJw5_5TjSamov6Qzu05Tc1dKhQhSaY_dmgklhFZDF1grupkvn4ZlXtA9vwKnd5MIjax7MfULF29F3RrBwY-HdJ2IH7cUk97sZ3W1NBfana2wBaYg6cUn2yYhDUQEBooOV1dfsMW0wEOAYstO7k7kW4qfJgqjhbGRj7CNU6snftlYGEdCMwS0i65P0iZ8sJ1GtQkbqXY5OOJF6SFkmvlJ0oUA1_KgZYSCpSx84YMTwUJcmsQR0X9nZYVSM6UO5ZrctYHq7rv0luVCvrgoe-1gBpxDOJLAx_NxaW6z3JEUTbqyEaemREOjB-3xDs3nfSAc1S2i3-gCxOUHFPNlDhkq3F2PUVZlHxX-E1eNAa_mulw0UdId1t3yrc5tAR-DsXDI40wlE7Cy0JQiGUcwf-TNsfcf9__pDENwCAyJpmjV6lgDlC7QsnPGpsFBnFEXwLHiDVRw1lQ9vO1sy-VAXz9q7ngS4Gy7GUuArsKjFSanDreI6VcptaTE83h6vE45rSbgywmPEoNnmmMu3Hd-lr-jIuUizOdYsK-3vwRoT7-O0GN3_SL0lY_RfpJ3gqgeidpkKmPwT_eTiKv5bIOfJlMMFWqZe0jPRnWHRFwwOcmKW3tOP154vylmepi-JL2UYEL4KrRBbCJA_5MXP3UmccljlDBgqCsX4DH7LXLbAYASi8xS7xzjZq5H5jTi059Rc8JaVzqCiAnuNx4fvbHYlFKaEV8_5jEVrD4fMYkGgyRJ8l3f4-qzVvuNaggASoJdXMtZWFzdC0yMNQN.m3u8",
         "url": "https://www.twitch.tv/retrocrushtv"
     },
     {
@@ -2176,7 +2176,7 @@
     },
     {
         "_id": "68cfde30fc3f09e544aac4d2",
-        "m3u8-url": "https://use23.playlist.ttvnw.net/v1/playlist/CskE2a84E0HdMzK0THXEjAEcduAb_FA96k3Ikepkz5klh2Y6BlcFC_GNOZJ1vuKoOi2zXxCAiTfGKr9A8ZNl_5QGEkQVsGAe9n08ttonRzoNeebWRQ-uP4b3viCK9Mvd0bxj5BywHKcB2AtGcBfNRkcwSeiOxHUTGbbBN68_3Ani6gl4olOphLSDazOplveV5WwUWszPAR_nJTJy6NgbpwxF-OMwMSr32vAXBnFLlRgrD5NotZd_zr-qkCTMmCfwa6uOsiPW_fclGncUwwST0ptrETNSrjNPYO4dJGW6SbPxZlaaMxHUYuST3Bs6O2_hb-CBJXJccrT4Jio3M2hqweSjj_YzQAvnMwobCcgZpjtcX3wBcHtz9PbmGNlHnJ3P5pxc2pJ8hh1ABFCOPhrL5S44EJn0yx0bEGz4E3Yu5vH1ikU5nk44AWl7kS9uiL4jip3CcL81d-HetdH1R8rGpxuAk74gWsjQY4JZnawgpD_abOHxRRCyMZ80q3JTfPtqW_N_Q57XWdzTywxX44LHqrf3cv30GCCzYqwtQt22bJ0m8NEwZe2dvptY4pp7lmbpCGPUKUz6BcG487qWHucO8ugW_cGgplsvg1X_ZpkZp0G_8Cu1UfLTv9wZgAVb3wpzasKwGUI9ayCwfNLwghjQ4eSsDbFgHVsHMyFFnXBdThmaLJlRglhwSqzMu8JcOAUGa72b--NbK_5dxsR5RkSlSRplvFJT5y0q2g6BGSTTdUO_eHZjj23XCGYvGJqqtvA2i_gQjjVeLV5ocoj_Ggz1Zb-UOZRvLv78vGMgASoJdXMtZWFzdC0yMNQN.m3u8",
+        "m3u8-url": "https://euc11.playlist.ttvnw.net/v1/playlist/CvMETlGNlbxRn2lQio4yn5qq9Q7ppGd87WxT8u5DI8IHdbOu8k4vlbfWkcXi3WMxajMVJAjU8JXA9BtmP2HFAuDNRKfG6_B6QLasblhSjSODIUlKX6uCWUM0ofQOsZ3Wo8sA0CZvPlhrCM3WYA5urgSnAV3pjSTFEjf184H049ArYszS6kIb6mbR2nbTU01spdTmZYHsN8UnXczLJtq05X3brBz91np1lHD_IPt_nB2ot1IrvsNqcz8NeXqeiKtZnG6tnMPnkBmr1kAqR8mVCvCqYnWuw8vUGemcS9L5FzQdfUjqs8rgGJyjmTBMKmEm-kOycvyKPU6BMwswQ1i-8Lcf1RbiXZm-KO54ZSS6TDUt-KspRRxXrtDoERwOQ6CJqVNnvPKLtUrkF-t_KhqaXS6LEAC-Cu45QklJNWvQqh-PeyZiQolDySEsoqzN17ZRVEK7ouL-w-dFZjwSS8ehMneewcIyqus3pBK_0AgZ-IBcWx0kJCjYc_p6tmRaaz_SJmcjuGBWMxF5FWoHQAv9ve3L6n-Q9uiSmIvGkQkMDA0XSfAtrtRSkI_5Vlm-eCyaEsW_Kq-vbrhqBNR3got4c96IdgZ7cdRE7yC9FzY6lIC4dcFqQVA1o8bniIJicE3oHMB3N6S4EhR2977tEhtqtqDhjOQvdCBRGsOTdNBk-RN78n0fxiLKn_Zt7BgAG12zXGctvXnOHp5j_-lvZuqo7h9VFgaylnGnTiSvyoLhKt2MwdRovDf-k6SSQ1KDArKmfR6yqcV9O-ABYLin7gzHOfFEwy6q3cX_Pvje-a2yyPG25Ob-oP4dvd2_QgZOkPa4a7UU9K6hGgy60urHtuabGBQWKVwgASoJZXUtd2VzdC0yMNYN.m3u8",
         "url": "https://www.twitch.tv/technobase_fm"
     },
     {
